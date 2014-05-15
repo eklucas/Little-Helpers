@@ -3,7 +3,7 @@
 
 Is it a drug store?  Some kind of tropical disease?  No, no, it’s a data format: a type of **text file**.
 
-A quick word about text files: in the world of data formats, a text file does not refer to a `.doc` or `.pdf`, but rather `.txt`. A text file contains _machine-readable_ text, not necessarily _human-readable_ text.
+A quick word about text files: in the world of data formats, a text file does not refer to a `.doc` or `.pdf`, but rather a `.txt` or `.csv`. A text file contains _machine-readable_ text, not necessarily _human-readable_ text.
 
 CSV stands for ***Comma-Separated Values***, and is also sometimes referred to as Character-Separated Values, because the separator (or “delimiter”) does not have to be a comma. It is a format that almost all programs (e.g. Excel, Microsoft Access, MySQL) can understand and import. It also has the advantage of being somewhat **understandable to humans** at a glance. You may not be able to make perfect sense of what’s in there, but you can eyeball it quickly in a text editor to see if it’s what you expected, which is nice. 
 
