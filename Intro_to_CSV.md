@@ -44,3 +44,17 @@ Most CSVs have a comma as a delimiter, but there are a number of other options, 
 The text qualifier is often either double quotes `"` or single quotes `'`.
 
 As for data types, refer to the **record layout**.
+
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/edit/master/Intro_to_CSV.md#intro-to-csv)
+###_IRE-flavored CSVs_
+
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/edit/master/Intro_to_CSV.md#intro-to-csv)
+###_Importing into Excel_
+
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/edit/master/Intro_to_CSV.md#intro-to-csv)
+###_Importing into Access_
+
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/edit/master/Intro_to_CSV.md#intro-to-csv)
+###_Importing into MySQL_
+
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/edit/master/Intro_to_CSV.md#intro-to-csv)
