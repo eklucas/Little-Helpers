@@ -27,11 +27,15 @@ Another good reason to map is to post your mapped data online and let your viewe
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_When to geocode_
+You may find yourself with data that would benefit greatly from being plotted on a map, but you should answer a few questions about it before you try to geocode. 
 
+1. What pieces of information do you have? The most important pieces of information are the street number, the street name and suffix (such as "St" or "Rd"), the street direction (such as "N"), and the zip code. If you're missing the zip code but you have city and state, your geocode _might_ work. Unfortunately street names are often repeated within cities, so to avoid confusion having the zip code is best.
+2. How dirty is the data? If street names are commonly misspelled, or suffixes left off, then you may need to do some cleanup before you geocode. It's usually not helpful if you can only geocode half of your data because the other half is too messy. Save yourself some time and frustration and try to get your data as clean as possible before you attempt geocoding. 
+3. Are addresses repeated in your data? If there are three parking tickets at one address, you don't want to geocode that address three times. The geocoding services we discuss below will often do some geocoding for free, but there are limits. Usually it's helpful to create a list of unique addreses from your data, and then join that list (after it has acquired latitude and longitude from the geocoder) back to your data. 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_Things to consider_
-
+, and it's _really_ not helpful when sometimes geocoders [place addresses in a default position](http://www.vox.com/2014/4/21/5636040/whats-the-matter-with-kansas-and-porn) because they can't get accurate coordinates
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_Available tools_
