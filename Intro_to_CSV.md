@@ -45,16 +45,16 @@ The text qualifier is often either double quotes `"` or single quotes `'`.
 
 As for data types, refer to the **record layout**.
 
-[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csv)
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csvs)
 ###_IRE-flavored CSVs_
 
-[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csv)
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csvs)
 ###_Importing into Excel_
 
-[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csv)
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csvs)
 ###_Importing into Access_
 
-[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csv)
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csvs)
 ###_Importing into MySQL_
 
-[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csv)
+[Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#intro-to-csvs)
