@@ -31,11 +31,14 @@ You may find yourself with data that would benefit greatly from being plotted on
 
 1. What pieces of information do you have? The most important pieces of information are the street number, the street name and suffix (such as "St" or "Rd"), the street direction (such as "N"), and the zip code. If you're missing the zip code but you have city and state, your geocode _might_ work. Unfortunately street names are often repeated within cities, so to avoid confusion having the zip code is best.
 2. How dirty is the data? If street names are commonly misspelled, or suffixes left off, then you may need to do some cleanup before you geocode. It's usually not helpful if you can only geocode half of your data because the other half is too messy. Save yourself some time and frustration and try to get your data as clean as possible before you attempt geocoding. 
-3. Are addresses repeated in your data? If there are three parking tickets at one address, you don't want to geocode that address three times. The geocoding services we discuss below will often do some geocoding for free, but there are limits. Usually it's helpful to create a list of unique addreses from your data, and then join that list (after it has acquired latitude and longitude from the geocoder) back to your data. 
+3. Are addresses repeated in your data? If there are three parking tickets at one address, you don't want to geocode that address three times. The geocoding services we discuss below will often do some geocoding for free, but there are limits. Usually it's helpful to create a list of unique addreses from your data, and then join that list (after it has acquired latitude and longitude from the geocoder) back to your data.
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_Things to consider_
-, and it's _really_ not helpful when sometimes geocoders [place addresses in a default position](http://www.vox.com/2014/4/21/5636040/whats-the-matter-with-kansas-and-porn) because they can't get accurate coordinates
+Geocoding services are never perfect, and there are some things you should keep in mind when you're deciding whether to geocode and what service to use: 
+ - Some geocoders won't geocode intersections (usually written this way: "9th St and Elm St" or "9th St / Elm St").
+ - Sometimes geocoders can't get accurate coordinates for an address, so they'll [place addresses in the middle of a wider geography](http://www.vox.com/2014/4/21/5636040/whats-the-matter-with-kansas-and-porn), such as a county, state or even the country.
+ - Sometimes geocoders are just not accurate. 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_Available tools_
