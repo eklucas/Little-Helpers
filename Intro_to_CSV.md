@@ -1,5 +1,14 @@
-<h1>What is a CSV?</h1>
-*<h6>by Travis Hartman and Liz Lucas</h6>*
+Intro to CSVs
+===================
+```by Liz Lucas and Travis Hartman```
+
+ - [**What is a CSV**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#what-is-a-csv)
+ - [**IRE-flavored CSVs**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#ire-flavored-csvs)
+ - [**Importing into Excel**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#importing-into-excel)
+ - [**Importing into Access**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#importing-into-access)
+ - [**Importing into MySQL**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_CSV.md#importing-into-mysql)
+
+###_What is a CSV?_
 
 Is it a drug store?  Some kind of tropical disease?  No, no, it’s a data format: a type of **text file**.
 
