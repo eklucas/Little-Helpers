@@ -1,6 +1,6 @@
 Intro to Geocoding
 =======================
-
+```by Liz Lucas```
 
 - [**What is geocoding?**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#what-is-geocoding) 
 - [**Why geocode?**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#why-geocode)
