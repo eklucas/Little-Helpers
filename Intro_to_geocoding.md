@@ -38,7 +38,7 @@ You may find yourself with data that would benefit greatly from being plotted on
 Geocoding services are never perfect, and there are some things you should keep in mind when you're deciding whether to geocode and what service to use: 
  - Some geocoders won't geocode intersections (usually written this way: "9th St and Elm St" or "9th St / Elm St").
  - Sometimes geocoders can't get accurate coordinates for an address, so they'll [place addresses in the middle of a wider geography](http://www.vox.com/2014/4/21/5636040/whats-the-matter-with-kansas-and-porn), such as a county, state or even the country.
- - Sometimes geocoders are just not accurate. 
+ - Sometimes geocoders are just not accurate. As Jacob Harris once put it: [_geocoding is often rubbish_](https://source.opennews.org/en-US/learning/distrust-your-data/). Don't be discouraged, just be careful. 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
 ###_Available tools_
