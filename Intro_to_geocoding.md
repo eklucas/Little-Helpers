@@ -6,8 +6,8 @@ Intro to Geocoding
 - [**Why geocode?**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#why-geocode)
 - [**When to geocode**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#when-to-geocode)
 - [**Things to consider**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#things-to-consider)
+- [**Things to look out for**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#things-to-look-out-for)
 - [**Available tools**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#available-tools)
-- [**Our recommendation**](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#our-recommendation) 
 
 
 ###_What is geocoding?_
@@ -41,11 +41,11 @@ Geocoding services are never perfect, and there are some things you should keep 
  - Sometimes geocoders are just not accurate. As Jacob Harris once put it: [_geocoding is often rubbish_](https://source.opennews.org/en-US/learning/distrust-your-data/). Don't be discouraged, just be careful. 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
-###_Available tools_
+###_Things to look out for_
 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
-###_Our recommendation_
+###_Available tools_
 
 
 [Take me back to the top](https://github.com/eklucas/Little-Helpers/blob/master/Intro_to_geocoding.md#intro-to-geocoding)
