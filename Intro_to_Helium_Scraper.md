@@ -8,7 +8,7 @@ Web scraping with Helium Scraper
 -- [**Translating your plans into a scraper**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
 -- [**Legal and ethical considerations**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
 
-###_Intro to web scraping and Helium
+###_Intro to web scraping and Helium_
 
 We've all visited websites that contain valuable information we want to analyze, such as [inspections reports](http://www.gocolumbiamo.com/webapps/cfforms/health/health_inspections.cfm), [lobbying expenditures](http://ethics.la.gov/LobbyistData/SearchByFinancialDisclosure.aspx), or a [list of jail inmates](https://www.showmeboone.com/sheriff/JailResidents/JailResidents.asp). 
 
