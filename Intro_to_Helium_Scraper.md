@@ -2,11 +2,11 @@ Web scraping with Helium Scraper
 =================================
 ```by Liz Lucas```
 
--- [**Intro to web scraping and Helium**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
--- [**Planning your scrape**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
--- [**Helium terminology: Kinds, Actions and Data**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
--- [**Translating your plans into a scraper**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
--- [**Legal and ethical considerations**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Intro to web scraping and Helium**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Planning your scrape**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Helium terminology: Kinds, Actions and Data**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Translating your plans into a scraper**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Legal and ethical considerations**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
 
 ###_Intro to web scraping and Helium_
 
