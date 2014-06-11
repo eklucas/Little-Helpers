@@ -24,7 +24,7 @@ A web scraper is simply a [piece of software](http://www.heliumscraper.com/), a 
 
 [Helium Scraper](http://www.heliumscraper.com/) is a $99 piece of software (for Windows only) that provides a point-and-click interface for web scraping so that you don't have to write something like this: 
 
-```
+```python
 soup = BeautifulSoup(html)
 results_table = soup.find('table', attrs={'class': 'resultsTable'})
 output_list = []
