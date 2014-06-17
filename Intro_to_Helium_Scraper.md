@@ -47,13 +47,13 @@ When you're getting ready to set up a web scraper, think through what steps you 
 
 ###_Helium terminology: Kinds, Actions and Data_
 
-Helium Scraper helps you build a web scraper using a point-and-click interface that operates with two general concepts: kinds and actions. **"Kinds"** are the pieces of the website you'll need the scraper to act on. Think of them as building blocks. **"Actions"** are what we create to arrange those building blocks in a particular order. 
+Helium Scraper helps you build a web scraper using a point-and-click interface that operates with two general concepts: kinds and actions. **`Kinds`** are the pieces of the website you'll need the scraper to act on. Think of them as building blocks. **`Actions`** are what we create to arrange those building blocks in a particular order. 
 
-For example, we need the scraper to click "Show All" before it can scrape any data. First we have to tell the scraper how to recognize the "show all" button by creating a `kind`, and we tell it to actually click the button by creating an `action`. 
+For example, we need the scraper to click "Show All" before it can scrape any data. First we have to tell the scraper how to recognize the "show all" button by creating a **`kind`**, and we tell it to actually click the button by creating an **`action`**. 
 
-Additionally, we want to create a `kind` for each column of data we want: year, name, address, etc. That way the scraper can recognize the pieces of data we want. The `action` we'll create is to take those `kinds` and extract them to a table. 
+Additionally, we want to create a **`kind`** for each column of data we want: year, name, address, etc. That way the scraper can recognize the pieces of data we want. The **`action`** we'll create is to take those **`kinds`** and extract them to a table. 
 
-The result of the scrape is the **data**, which Helium Scraper stores in a database that you can query. You can also export the data as a Microsoft Access database.
+The result of the scrape is the **`data`**, which Helium Scraper stores in a database that you can query. You can also export the data as a Microsoft Access database.
 
 These are the basic steps, but Helium Scraper has a lot of additional functionality. For example, you can make the program wait between each click, which is helpful because certain web browsers or web pages won't allow you to make too many requests too quickly. You can also send the results of your scrape to different tables if you want to create a relational database. 
 
