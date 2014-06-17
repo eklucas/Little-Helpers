@@ -2,11 +2,11 @@ Web scraping with Helium Scraper
 =================================
 ```by Liz Lucas```
 
-- [**Intro to web scraping and Helium**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
-- [**Planning your scrape**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
-- [**Helium terminology: Kinds, Actions and Data**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
-- [**Translating your plans into a scraper**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
-- [**Legal and ethical considerations**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#)
+- [**Intro to web scraping and Helium**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#intro-to-web-scraping-and-helium)
+- [**Planning your scrape**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#planning-your-scrape)
+- [**Helium terminology: Kinds, Actions and Data**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#helium-terminology-kinds-actions-and-data)
+- [**Translating your plans into a scraper**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#translating-your-plans-into-a-scraper)
+- [**Legal and ethical considerations**](https://github.com/eklucas/NICAR-Help/blob/master/Intro_to_Helium_Scraper.md#legal-and-ethical-considerations)
 
 ###_Intro to web scraping and Helium_
 
@@ -35,7 +35,7 @@ for tr in results_table.findAll('tr'):
     output_list.append(row_list)
 ```
 
-###_Planning your scrap_
+###_Planning your scrape_
 
 So back to that question: how would you do it? 
 
@@ -47,6 +47,15 @@ When you're getting ready to set up a web scraper, think through what steps you 
 
 ###_Helium terminology: Kinds, Actions and Data_
 
+Helium Scraper helps you build a web scraper using a point-and-click interface that operates with two general concepts: kinds and actions. **"Kinds"** are the pieces of the website you'll need the scraper to act on. Think of them as building blocks. **"Actions"** are what we create to arrange those building blocks in a particular order. 
+
+For example, we need the scraper to click "Show All" before it can scrape any data. First we have to tell the scraper how to recognize the "show all" button by creating a `kind`, and we tell it to actually click the button by creating an `action`. 
+
+Additionally, we want to create a `kind` for each column of data we want: year, name, address, etc. That way the scraper can recognize the pieces of data we want. The `action` we'll create is to take those `kinds` and extract them to a table. 
+
+The result of the scrape is the **data**, which Helium Scraper stores in a database that you can query. You can also export the data as a Microsoft Access database.
+
+These are the basic steps, but Helium Scraper has a lot of additional functionality. For example, you can make the program wait between each click, which is helpful because certain web browsers or web pages won't allow you to make too many requests too quickly. You can also send the results of your scrape to different tables if you want to create a relational database. 
 
 ###_Translating your plans into a scraper_
 
