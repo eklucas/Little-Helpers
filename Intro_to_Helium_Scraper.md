@@ -59,6 +59,13 @@ These are the basic steps, but Helium Scraper has a lot of additional functional
 
 ###_Translating your plans into a scraper_
 
+When setting up a scraper with Helium, it's best to create all the `kinds` you need for the scraper, and then create an `action` tree that will take the appropriate actions on your `kinds`.
+
+For this scrape, we need several `kinds`: we need our scraper to recognize the "show all" button on the first page, each column of the data, and the button on each page that takes us to the next page.
+
+We teach the scraper to recognize `kinds` by selecting multiple examples, and then Helium looks in the HTML for shared tags and attributes in order to identify all of the elements on a page that match the `kind`.
+
+
 
 ###_Legal and ethical considerations_
 
