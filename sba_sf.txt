@@ -1,0 +1,117 @@
+BorrName	BorrStreet	BorrCity	BorrState	BorrZip	BankName	GrossApproval	ApprovalDate
+Martin Castillo & Manuel A. Ca	5800 Third Street #1003 & 100	San Francisco	CA	94124	Redwood CU	635000.00	2013-01-04
+FitPFSF, Inc.	340 Sansome Street	San Francisco	CA	94104	Umpqua Bank	1000000.00	2013-01-08
+HWA RANG KWAN MARTIAL ARTS CEN	371 5TH ST	SAN FRANCISCO	CA	94107	U.S. Bank National Association	30000.00	2013-01-09
+NEILL & LEE GENERAL CONTRACTOR	84 PROSPECT AVE	SAN FRANCISCO	CA	94110	Wells Fargo Bank, National Ass	50000.00	2013-01-11
+VIP Grooming	4299 24th Street	SAN FRANCISCO	CA	94114	OBDC Small Business Finance	100000.00	2013-01-22
+Versus Games LLC	1716 Taraval Street	SAN FRANCISCO	CA	94116	Sterling Savings Bank d.b.a Ar	50000.00	2013-01-30
+Kent M. Lim Company, Inc.	1260 Egbert Avenue	San Francisco	CA	94124	Bank of the Orient	920000.00	2013-01-31
+17th Street Oliveira Chiroprac	3705 17th Street	SAN FRANCISCO	CA	94114	Celtic Bank Corporation	92600.00	2013-02-12
+RESTORATION MEMORIES	921 VALLEJO ST	SAN FRANCISCO	CA	94133	Wells Fargo Bank, National Ass	5000.00	2013-02-16
+Home Care Options, San Francis	1 Daniel Burnham Court suite	SAN FRANCISCO	CA	94109	American National Bank	829300.00	2013-02-18
+SBhimani LLC	908 Sutter Street	SAN FRANCISCO	CA	94109	BBCN Bank	500000.00	2013-02-19
+Lilitab LLC	2339 3rd St. Ste 59	SAN FRANCISCO	CA	94107	OBDC Small Business Finance	250000.00	2013-02-21
+Chiwi LLC	4119-4123 24th. Street	SAN FRANCISCO	CA	94114	Bank of San Francisco	1400000.00	2013-02-22
+Y Studios, LLC	151 Vermont St. #10	SAN FRANCISCO	CA	94103	U.S. Bank National Association	1000000.00	2013-02-25
+JNB FINANCE LLC	1547 CLAY ST APT 301	SAN FRANCISCO	CA	94109	Wells Fargo Bank, National Ass	25000.00	2013-02-27
+Amir Akbari and Maryam Emami	4612 - 4614 3rd Street	SAN FRANCISCO	CA	94124	Wells Fargo Bank, National Ass	441100.00	2013-03-01
+Growing Tree Child Care	1984 Great Hwy	SAN FRANCISCO	CA	94116	Wells Fargo Bank, National Ass	767000.00	2013-03-01
+Five Flavors Herbs	350 SANSOME ST  Suite 730	SAN FRANCISCO	CA	94104	U.S. Bank National Association	10000.00	2013-03-06
+ENA	323 Grant Ave	SAN FRANCISCO	CA	94108	JPMorgan Chase Bank, National	90900.00	2013-03-12
+Rubicon Insurance Services, LL	150 California St Ste 225	SAN FRANCISCO	CA	94111	JPMorgan Chase Bank, National	25300.00	2013-03-13
+GRAND FINISHES	336 CLAREMONT BLVD #5	SAN FRANCISCO	CA	94127	Citibank, N.A.	50000.00	2013-03-15
+130 Grand Holdings, Inc.	5030 Geary Blvd.	San Francisco	CA	94118	City National Bank	425000.00	2013-03-17
+Puente Bagels, Inc.	5030 Geary Blvd.	San Francisco	CA	94118	City National Bank	50000.00	2013-03-17
+Brian Gross Fine Art, Inc.	248 Utah st	SAN FRANCISCO	CA	94123	Redwood CU	350000.00	2013-03-27
+Wolfe's Lunch	1220 16th St.	San Francisco	CA	94107	Hanmi Bank	120000.00	2013-03-30
+Chow, LLC	1240 Ninth Ave	San Francisco	CA	94122	Bay Commercial Bank	1486900.00	2013-04-08
+529 Commercial Street Associat	40 HOTALING	SAN FRANCISCO	CA	94111	Wells Fargo Bank, National Ass	1366800.00	2013-04-09
+Spectrum It Consulting Inc	130 GARDENSIDE DR Suite 304	SAN FRANCISCO	CA	94131	U.S. Bank National Association	20000.00	2013-04-17
+NEWBS 0168, LLC	1245 Folsom St.	San Francisco	CA	94103	Wells Fargo Bank, National Ass	2594000.00	2013-04-22
+BRS Media, Inc.	55 New Montgomery St Suite 6	SAN FRANCISCO	CA	94105	Bank of America, National Asso	200000.00	2013-04-25
+Jeffrey W.T. Mark	1888 Clement Street	SAN FRANCISCO	CA	94121	Wells Fargo Bank, National Ass	680000.00	2013-04-25
+The Royal Exchange Restaurant	301 Sacramento St	San Francisco	CA	94111	Bank of the Orient	450000.00	2013-04-26
+We Be Knives	2 Beach Street #216 Pier 39	SAN FRANCISCO	CA	94103	Travis CU	190000.00	2013-05-01
+T & M Restaurant Enterprises,	708 Bush Street	San Francisco	CA	94121	Bay Commercial Bank	900000.00	2013-05-08
+Five Star Housekeeping Agency	521 MONTEREY BLVD	SAN FRANCISCO	CA	94127	CDC Small Business Finance Cor	144000.00	2013-05-08
+Sparse, LLC	2325 3rd Street	SAN FRANCISCO	CA	94107	OBDC Small Business Finance	150000.00	2013-05-09
+Koshland Pharmacy, Inc.	301 Folsom Street Suite B &	SAN FRANCISCO	CA	94105	United Labor Bank, A Federal S	145500.00	2013-05-09
+Cortland Business Group, LLC d	309-311 Cortland Avenue	San Francisco	CA	94110	Sterling Savings Bank d.b.a Ar	1215000.00	2013-05-13
+Local Mission Market, LLC	2660 Harrison Street	SAN FRANCISCO	CA	94110	OBDC Small Business Finance	237400.00	2013-05-15
+Daunell and Higgins, Inc.	2323 Market Street	SAN FRANCISCO	CA	94114	OBDC Small Business Finance	250000.00	2013-05-21
+Media Elements LLC	725 Van Ness Ave Apt 404	SAN FRANCISCO	CA	94102	JPMorgan Chase Bank, National	50000.00	2013-05-22
+Light Rail Studios, LLC	672 Toland Place	SAN FRANCISCO	CA	94124	OBDC Small Business Finance	105000.00	2013-05-23
+INCREDIBLE ADVENTURES INC	765 PENNSYLVANIA AVE	SAN FRANCISCO	CA	94107	U.S. Bank National Association	25000.00	2013-05-23
+Jennifer M. Carino, L.A.C., MS	490 Post St. Ste 450	SAN FRANCISCO	CA	94102	Wells Fargo Bank, National Ass	415900.00	2013-05-23
+JCW International Trading Inc	6199 3rd Street	SAN FRANCISCO	CA	94124	East West Bank	150000.00	2013-05-29
+Lewis & Llewellyn LLP	505 Montgomery St Ste 1300	SAN FRANCISCO	CA	94111	JPMorgan Chase Bank, National	100000.00	2013-05-30
+MRM & YMM Enterprises, LLC	3066 24th Street	SAN FRANCISCO	CA	94110	OBDC Small Business Finance	150000.00	2013-06-04
+THE SPOT RESTAURANT	2325 TARAVAL ST	SAN FRANCISCO	CA	94116	Wells Fargo Bank, National Ass	10000.00	2013-06-07
+Relax Feet, LLC	1151 Sutter Street, C1	SAN FRANCISCO	CA	94109	Bridge Bank, National Associat	327900.00	2013-06-07
+AQUA SF SPA, INC.	1875 GEARY BOULEVARD	SAN FRANCISCO	CA	94115	Hana Small Business Lending, I	1830000.00	2013-06-10
+BEST CHOICE CLEANERS	2459 POLK ST	SAN FRANCISCO	CA	94109	Wells Fargo Bank, National Ass	20000.00	2013-06-10
+Y Studios, LLC	151 Vermont St.	SAN FRANCISCO	CA	94103	U.S. Bank National Association	1431000.00	2013-06-13
+Peace Bros, Inc.	77 Seminole Ave	SAN FRANCISCO	CA	94112	JPMorgan Chase Bank, National	35000.00	2013-06-14
+Magic Plumbing	1455 Bancroft Ave.	SAN FRANCISCO	CA	94124	U.S. Bank National Association	675000.00	2013-06-14
+Rodger L. Hostetler Photograph	900 Minnesota Street, Ste C2	SAN FRANCISCO	CA	94107	Wells Fargo Bank, National Ass	50000.00	2013-06-17
+W & D Wholesale Foods, Inc.	2600 Ingalls Street	SAN FRANCISCO	CA	94124	East West Bank	1115000.00	2013-06-18
+Luminary Productions Inc.	300 Brannon St Suite 303	SAN FRANCISCO	CA	94107	Bank of America, National Asso	50000.00	2013-06-24
+Robert W. Fountain, Inc.	411 Vermont Street	SAN FRANCISCO	CA	94107	JPMorgan Chase Bank, National	75000.00	2013-06-25
+Bare by TRU	345 California Street	SAN FRANCISCO	CA	94104	Valley Economic Development Co	150000.00	2013-06-26
+Susan Choe, DPM	1000 Franklin Street #301	San Francisco	CA	94109	Umpqua Bank	820500.00	2013-06-26
+Bernal Cutlery	593 Guerrero Street	SAN FRANCISCO	CA	94110	OBDC Small Business Finance	170000.00	2013-06-28
+U.S. Packaging Corp.	391 Sutter St #303	SAN FRANCISCO	CA	94108	California Bank & Trust	1000000.00	2013-06-28
+Parkside Quickly Inc.	1050 Taraval St	SAN FRANCISCO	CA	94116	JPMorgan Chase Bank, National	30000.00	2013-07-03
+S.F. Oceanic Restaurant	101 Utah St Ste A	SAN FRANCISCO	CA	94103	JPMorgan Chase Bank, National	30000.00	2013-07-08
+Zhi Hao Lu Associates, Inc.	850 Holloway Ave	SAN FRANCISCO	CA	94112	JPMorgan Chase Bank, National	40000.00	2013-07-10
+revneD Productions LLC	4229 18th Street	SAN FRANCISCO	CA	94114	JPMorgan Chase Bank, National	50000.00	2013-07-12
+Spiral ATM	601 Van Ness Ave # E-503	SAN FRANCISCO	CA	94102	Bank of America, National Asso	150000.00	2013-07-12
+The Welshman Group, LLC	1854 Divisadero St	SAN FRANCISCO	CA	94115	JPMorgan Chase Bank, National	100000.00	2013-07-16
+Fredric R. Warren DDS, Inc.	15 West Portal Ave.	SAN FRANCISCO	CA	94127	U.S. Bank National Association	2094500.00	2013-07-22
+THE SPOT RESTAURANT	2325 Taraval St	SAN FRANCISCO	CA	94116	JPMorgan Chase Bank, National	25000.00	2013-07-25
+Creative Diversions Inc.	151 Vermont St Space 7	SAN FRANCISCO	CA	94103	JPMorgan Chase Bank, National	75000.00	2013-07-25
+Creative Diversions Inc.	151 Vermont St Space 7	SAN FRANCISCO	CA	94103	JPMorgan Chase Bank, National	21400.00	2013-07-25
+THAYER PHOTOGRAPHS, INC.	32 ELLERT STREET	SAN FRANCISCO	CA	94110	Metro United Bank	150000.00	2013-07-31
+Zhao Ping Chen and Mei Chu Che	2031 Polk St.	San Francisco	CA	94109	Seacoast Commerce Bank	1266500.00	2013-07-31
+Kufu Ya	7001 Geary Blvd	SAN FRANCISCO	CA	94121	JPMorgan Chase Bank, National	50000.00	2013-08-01
+Neo Romax, Inc.	140 Mason St	SAN FRANCISCO	CA	94102	JPMorgan Chase Bank, National	25000.00	2013-08-02
+Q-Tech Auto Repair, Inc.	91 Industrial St	SAN FRANCISCO	CA	94124	JPMorgan Chase Bank, National	20000.00	2013-08-07
+Tactical Republic, Inc.	2960 Van Ness Ave Ste C	San Francisco	CA	94109	Wells Fargo Bank, National Ass	614000.00	2013-08-16
+Butters Enterprises, LLC	582 Sutter St	SAN FRANCISCO	CA	94102	Wells Fargo Bank, National Ass	299800.00	2013-08-20
+Elena Meyliker DDS	2186 Geary Blvd #103-104	SAN FRANCISCO	CA	94115	Live Oak Banking Company	1315000.00	2013-08-20
+Castro Tarts Cafe And Bakery,	564 Castro St	SAN FRANCISCO	CA	94114	JPMorgan Chase Bank, National	20000.00	2013-08-21
+Fredric R. Warren DDS	7-15 West Portal Avenue	San Francisco	CA	94127	Focus Business Bank	1800000.00	2013-08-22
+Bibby G. Productions, Inc.	601 Minnesota St. Suite 115	SAN FRANCISCO	CA	94107	Bank of San Francisco	150000.00	2013-08-23
+Bibby G. Productions, Inc.	601 Minnesota St. Suite 115	SAN FRANCISCO	CA	94107	Bank of San Francisco	110000.00	2013-08-23
+Tactical Republic, Inc.	2960 Van Ness Ave, Ste C	SAN FRANCISCO	CA	94109	Wells Fargo Bank, National Ass	50000.00	2013-08-27
+Tyrone Chin and John Lin's Tow	1 San Pedro Rd	SAN FRANCISCO	CA	94104	JPMorgan Chase Bank, National	44700.00	2013-08-30
+Friends Liquor	1756-58 Fillmore Street	SAN FRANCISCO	CA	94102	Valley Community Bank	1237500.00	2013-08-30
+DIAMOND BROKERS OF LOS ALTOS I	845 CALIFORNIA ST APT 404	SAN FRANCISCO	CA	94108	Wells Fargo Bank, National Ass	10000.00	2013-09-03
+THREE GUYS HOLDING CO.,LLC	635 Texas Street STE A	SAN FRANCISCO	CA	94107	Wells Fargo Bank, National Ass	358000.00	2013-09-03
+Go West Tours	790 Eddy Street	San Francisco	CA	94109	Umpqua Bank	1637000.00	2013-09-04
+Dataway, Inc.	255 Golden Gate Avenue	SAN FRANCISCO	CA	94102	JPMorgan Chase Bank, National	300000.00	2013-09-11
+2120 Greenwich, Inc.	2120 Greenwich Street	SAN FRANCISCO	CA	94123	Exchange Bank	1432000.00	2013-09-13
+James R. Forcier Company Inc.	521 7th ST	SAN FRANCISCO	CA	94103	Wells Fargo Bank, National Ass	494000.00	2013-09-13
+James R. Forcier Company Inc.	521 7th ST	SAN FRANCISCO	CA	94103	Wells Fargo Bank, National Ass	50000.00	2013-09-13
+The Post Street Investments, L	490 Post Street, Suite 710	SAN FRANCISCO	CA	94102	Bank of San Francisco	1020000.00	2013-09-13
+Fourbarrel Coffee, LLC	375 VALENCIA ST	SAN FRANCISCO	CA	94117	Redwood CU	1300000.00	2013-09-14
+Mod Vellum, Inc.	1628 Union St.	SAN FRANCISCO	CA	94123	Wells Fargo Bank, National Ass	163800.00	2013-09-16
+Ron Burg	490 Post St., Ste 626	SAN FRANCISCO	CA	94102	Wells Fargo Bank, National Ass	181500.00	2013-09-16
+Ana Duffy CMA	360 Country Club Dr	SAN FRANCISCO	CA	94132	JPMorgan Chase Bank, National	10000.00	2013-09-17
+DORE STUDIO	2442 MISSION ST	SAN FRANCISCO	CA	94110	Wells Fargo Bank, National Ass	15000.00	2013-09-18
+Sagol Games Inc.	2 Beach St	SAN FRANCISCO	CA	94133	U.S. Bank National Association	25000.00	2013-09-20
+Oxygen Massage Therapy	3389 22nd St	SAN FRANCISCO	CA	94110	JPMorgan Chase Bank, National	25000.00	2013-09-20
+Janet Lin	638 19th St Ste C2 & C3	SAN FRANCISCO	CA	94107	Wells Fargo Bank, National Ass	767200.00	2013-09-23
+JONATHAN KAPLAN, M.D., INC.	2100 Webster Street, 429	SAN FRANCISCO	CA	94115	JPMorgan Chase Bank, National	195400.00	2013-09-23
+JONATHAN KAPLAN, M.D., INC.	2100 Webster Street, 429	SAN FRANCISCO	CA	94115	JPMorgan Chase Bank, National	75000.00	2013-09-23
+Nevena Fashion Fillmore, LLC	2358-2360 Filmore Street	SAN FRANCISCO	CA	94115	JPMorgan Chase Bank, National	250000.00	2013-09-27
+Sweeney Plumbing, Inc.	156-160 Gilbert St.	SAN FRANCISCO	CA	94103	U.S. Bank National Association	918000.00	2013-09-27
+Thirsty Bear Brewing Company,	661 Howard Street	SAN FRANCISCO	CA	94105	JPMorgan Chase Bank, National	770300.00	2013-09-27
+Studio Dental, Inc.	550 Larkin Street #602	SAN FRANCISCO	CA	94102	JPMorgan Chase Bank, National	261000.00	2013-09-27
+Henry & Sylvia, Inc.	6135 Geary Blvd	SAN FRANCISCO	CA	94121	East West Bank	100000.00	2013-09-27
+Rajputana Lodging, LP	235-243 O'Farrell Street	SAN FRANCISCO	CA	94102	Exchange Bank	4250000.00	2013-09-30
+Palexoma Inc.	1434 15th Street	SAN FRANCISCO	CA	94103	East West Bank	150000.00	2013-09-30
+JANET LIN INSURANCE & FINANCIA	638 19th St Ste C2 & C3	SAN FRANCISCO	CA	94107	Wells Fargo Bank, National Ass	50000.00	2013-09-30
+140 NM, LLC	140 New Montgomery St	SAN FRANCISCO	CA	94105	Redwood CU	1075000.00	2013-09-30
+Dixon Gas Club LLC	2400 San Bruno Avenue	SAN FRANCISCO	CA	94134	Sterling Savings Bank d.b.a Ar	1500000.00	2013-09-30
+Janita  Mach	1915-1917 Clement St	SAN FRANCISCO	CA	94121	Wells Fargo Bank, National Ass	734500.00	2013-09-30
