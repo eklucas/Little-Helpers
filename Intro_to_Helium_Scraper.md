@@ -12,7 +12,7 @@ Web scraping with Helium Scraper
 
 We've all visited websites that contain valuable information we want to analyze, such as [inspections reports](http://www.gocolumbiamo.com/webapps/cfforms/health/health_inspections.cfm), [lobbying expenditures](http://ethics.la.gov/LobbyistData/SearchByFinancialDisclosure.aspx), or a [list of jail inmates](https://www.showmeboone.com/sheriff/JailResidents/JailResidents.asp). 
 
-We're grateful for the [growing movement](http://theodi.org/about-us) among [government agencies](https://nycopendata.socrata.com/) (particularly [federal](www.consumerfinance.gov/hmda) ones) to provide what we all want to see: the **DOWNLOAD** button. 
+We're grateful for the [growing movement](http://theodi.org/about-us) among [government agencies](https://nycopendata.socrata.com/) (particularly [federal](http://www.consumerfinance.gov/hmda) ones) to provide what we all want to see: the **DOWNLOAD** button. 
 
 But not everyone is there yet. 
 
